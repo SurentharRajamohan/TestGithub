@@ -1,2 +1,2 @@
 # TestGithub
-Testing Functinality
+Testing Functionality
